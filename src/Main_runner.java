@@ -128,13 +128,13 @@ public int amount(String name)
     switch(name)
     {
         case "Yoga":
-          rate = 500;  
+          rate = 2000;
         break;
         case "Zumba":
-            rate = 700;
+            rate = 2100;
         break;
         case "Box Fit":
-            rate = 400;
+            rate = 2200;
         break;
         case "Aquacise":
             rate = 1700;
